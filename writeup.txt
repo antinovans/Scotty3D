@@ -1,0 +1,24 @@
+AndrewID: tairang
+
+Task 1:
+
+    Fully implemented.
+
+Task 2:
+
+    Fully implemented.
+
+Task 3:
+
+    Fully implemented.
+
+
+Task 4:
+
+    Fully implemented.
+
+
+Extra credit:
+
+Task 3 and 4 are easy. 
+    ....
